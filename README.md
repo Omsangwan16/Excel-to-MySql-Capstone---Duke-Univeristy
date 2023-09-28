@@ -25,4 +25,4 @@ The culmination of this analysis will lead to a concise and data-driven business
 
 Should Watershed enter the short-term rental market by utilizing a portion of this client's property portfolio? If the answer is affirmative, which specific properties should be prioritized for conversion?
 
-The tableau dashboard presenting the results can be found here :- [https://public.tableau.com/app/profile/om.sangwan/viz/CapstonWeek6/Dashboard1](https://public.tableau.com/app/profile/om.sangwan/vizzes)https://public.tableau.com/app/profile/om.sangwan/vizzes
+The tableau dashboard presenting the results can be found here :- (https://public.tableau.com/app/profile/om.sangwan/vizzes)https://public.tableau.com/app/profile/om.sangwan/vizzes
